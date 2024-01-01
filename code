@@ -78,6 +78,13 @@
             background-color: #4CAF50;
             color: #fff;
         }
+	 /* Image styling */
+        img {
+            width: 160px; /* Set the desired width */
+            height: 170px; /* Set the desired height */
+            display: block;
+            margin: auto;
+        }
     </style>
     <title>Health and Fitness Hub</title>
 </head>
@@ -109,7 +116,7 @@
             <div class="fitness-plan">
                  <h3>Weight Loss Plan</h3>
                 <p>A personalized plan to help you achieve your weight loss goals.<br></p>
-<img src="C:\Users\hp\Pictures\abc.png">
+<img src="https://www.shape.com/thmb/Q9-93tPORpVI5HUiub24oxmTkJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/erin-oprea-weight-loss-workout-plan2-e91dbdc195bd46fd89825e202189319a.jpg">
 		<p>To achieve your weight loss goals, it's crucial to create a personalized plan
  that encompasses both dietary and lifestyle changes. Start by setting realistic
  and achievable weight loss targets, aiming for a gradual and sustainable approach.
@@ -139,7 +146,7 @@ stay motivated on your weight loss journey.</p>
             <div class="fitness-plan">
                  <h3>Muscle Building Plan</h3>
                 <p>Gain strength and build muscle with our specialized workout routine.</p>
-<img src="C:\Users\hp\Pictures\abcd.png">
+<img src="https://www.shape.com/thmb/94A-SnW7Bnh3p4mW0rJSVawTYtU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/erin-oprea-muscle-building-workout-plan-2-1dc246463d8d4f3f8fbdca51b40d4e87.jpg">
 <p>To embark on a successful muscle-building journey, tailor a personalized plan that combines
  strategic training and nutrition. Begin with a well-structured resistance training program
  that targets:
@@ -163,7 +170,7 @@ aiming for a protein-rich diet with lean meats, dairy, and plant-based sources.
             <div class="fitness-plan">
                <h3>Fitness Maintenance Plan</h3>
                 <p>Maintain a healthy and active lifestyle with our maintenance plan.</p>
-<img src="C:\Users\hp\Pictures\abcde.png">
+<img src="https://relentlessforwardcommotion.com/wp-content/uploads/2020/04/Sample-week-running-fitness-for-health-1-1024x578.png">
 <p>Sustaining a healthy and fit lifestyle requires a thoughtful maintenance plan. 
 Maintain a consistent exercise routine that blends
 <ul>
